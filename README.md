@@ -14,10 +14,6 @@ Ce projet est une application de gestion des outils pour les Team Leaders, perme
 ## Installation
 ### Prérequis
 - Python 3.x installé
-- Modules Python suivants :
-  ```bash
-  pip install tkinter pillow pywin32
-  ```
 
 ### Installation du projet
 1. Clonez le dépôt ou téléchargez le projet.
