@@ -21,10 +21,14 @@ Ce projet est une application de gestion des outils pour les Team Leaders, perme
 
 ### Installation du projet
 1. Clonez le dépôt ou téléchargez le projet.
-2. Placez l'image `cmp_logo.png` dans le dossier principal.
-3. Lancez le script principal :
+2. Lancez la commande pour installer les dependances depuis le terminal :
    ```bash
-   python main.py
+   python pip install -r requirements.txt
+   ```
+4. Placez l'image `cmp_logo.png` dans le dossier principal.
+5. Lancez le script principal :
+   ```bash
+   python C:\Users\votre_non\Desktop\gestion d'outil> python ajouter_operateur.py.py
    ```
 
 ## Utilisation
